@@ -4,7 +4,7 @@ import { Features } from "./components/Features";
 import { ProductShowcase } from "./components/ProductShowcase";
 import { WhyChooseUs } from "./components/WhyChooseUs";
 import { Testimonials } from "./components/Testimonials";
-import { CallToAction } from "./components/CallToAction";
+// import { CallToAction } from "./components/CallToAction";
 import { Footer } from "./components/Footer";
 
 export default function App() {
@@ -17,7 +17,7 @@ export default function App() {
         <ProductShowcase />
         <WhyChooseUs />
         <Testimonials />
-        <CallToAction />
+        {/* <CallToAction /> */}
       </main>
       <Footer />
     </div>
