@@ -142,6 +142,7 @@ export function Hero() {
               <div className="uppercase text-center text-black ">e</div>
               <div className="uppercase text-center text-black ">_</div>
               <div className="uppercase text-center text-black ">c</div>
+              <div className="uppercase text-center text-black ">o</div>
               <div className="uppercase text-center text-black ">m</div>
               <div className="uppercase text-center text-black ">m</div>
               <div className="uppercase text-center text-black ">e</div>
