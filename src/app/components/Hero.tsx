@@ -60,7 +60,7 @@ export function Hero() {
           {/* Right Column (Decorative Elements) - made responsive */}
           <div className="relative h-full w-full min-h-[300px] sm:min-h-[400px] lg:min-h-0">
             {/* Vertical Bars Container */}
-            <div className="absolute top-0 left-0 z-10 h-full w-full flex justify-center items-center gap-1 sm:gap-2">
+            <div className="absolute top-0 left-0 z-10 h-full w-full flex justify-center items-center gap-1 md:gap-0">
               <motion.div
                 animate={{ y: [-10, 10, -10] }}
                 transition={{ duration: 6, repeat: Infinity }}
